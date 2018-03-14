@@ -1,0 +1,23 @@
+05-Mar-18	11:33 PM		BHADRI	BHADRI-PC	Extracting Zip file from stub file, C:\Users\BHADRI\Downloads\8823xdat.exe.
+05-Mar-18	11:33 PM		BHADRI	BHADRI-PC	Performing self validation ...
+05-Mar-18	11:33 PM		BHADRI	BHADRI-PC	Retrieving file, NAISCRIP.NSC from zip file.
+05-Mar-18	11:33 PM		BHADRI	BHADRI-PC	Loading and parsing script file : C:\Users\BHADRI\AppData\Local\Temp\5B5A\NAISCRIP.NSC
+05-Mar-18	11:33 PM		BHADRI	BHADRI-PC	Retrieving file, Globals.nsg from zip file.
+05-Mar-18	11:33 PM		BHADRI	BHADRI-PC	Loading and parsing globals file : Globals.nsg
+05-Mar-18	11:33 PM		BHADRI	BHADRI-PC	Searching for all Installed anti-virus products.
+05-Mar-18	11:33 PM		BHADRI	BHADRI-PC	Pre-notifying for 8823 update.
+05-Mar-18	11:33 PM		BHADRI	BHADRI-PC	Retrieving file, AVVSCAN.DAT from zip file.
+05-Mar-18	11:33 PM		BHADRI	BHADRI-PC	Retrieving file, AVVNAMES.DAT from zip file.
+05-Mar-18	11:33 PM		BHADRI	BHADRI-PC	Retrieving file, AVVCLEAN.DAT from zip file.
+05-Mar-18	11:33 PM		BHADRI	BHADRI-PC	Installing Anti-Virus files...
+05-Mar-18	11:33 PM		BHADRI	BHADRI-PC	Backing up file into C:\Program Files (x86)\Common Files\McAfee\Engine\OldDats\AVVSCAN.DAT
+05-Mar-18	11:34 PM		BHADRI	BHADRI-PC	Replacing file...C:\Program Files (x86)\Common Files\McAfee\Engine\AVVSCAN.DAT
+05-Mar-18	11:34 PM		BHADRI	BHADRI-PC	Backing up file into C:\Program Files (x86)\Common Files\McAfee\Engine\OldDats\AVVNAMES.DAT
+05-Mar-18	11:34 PM		BHADRI	BHADRI-PC	Replacing file...C:\Program Files (x86)\Common Files\McAfee\Engine\AVVNAMES.DAT
+05-Mar-18	11:34 PM		BHADRI	BHADRI-PC	Backing up file into C:\Program Files (x86)\Common Files\McAfee\Engine\OldDats\AVVCLEAN.DAT
+05-Mar-18	11:34 PM		BHADRI	BHADRI-PC	Replacing file...C:\Program Files (x86)\Common Files\McAfee\Engine\AVVCLEAN.DAT
+05-Mar-18	11:34 PM		BHADRI	BHADRI-PC	Post-notifying for 8823 update.
+05-Mar-18	11:34 PM		BHADRI	BHADRI-PC	Update succeeded to version 4.0.8823.
+05-Mar-18	11:34 PM		BHADRI	BHADRI-PC	Deleting...C:\Users\BHADRI\AppData\Local\Temp\NAI7C9F.tmp
+05-Mar-18	11:34 PM		BHADRI	BHADRI-PC	Deleting...C:\Users\BHADRI\AppData\Local\Temp\5B5A
+05-Mar-18	11:35 PM		BHADRI	BHADRI-PC	Update process completed successfully.
